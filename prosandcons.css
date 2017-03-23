@@ -37,7 +37,7 @@ header p {
   background-size: cover;
   color: #ffffff;
   height: 800px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  text-shadow: 2px 2px 2px black;
   background-image: url('http://www.pptbackgroundstemplates.com/backgrounds/Blue-internet-blocks-powerpoint-backgrounds.jpg');
 }
 
@@ -45,10 +45,20 @@ header p {
   font-size: 50px;
   font-weight: 700;
   color: #fff;
+  margin-top: -200px;
+  margin-bottom:50px;
+}
+.jumbotron h2 p {
+  font-weight: 700;
+  font-size: 50px;
+  text-shadow: 2px 2px 2px black;
+  color: #fff;
+
 }
 
 .jumbotron h3 {
   color: #fff;
+  font-size: 30px;
 }
 
 section .row img {
