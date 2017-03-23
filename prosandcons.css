@@ -50,7 +50,7 @@ header p {
 }
 .jumbotron h2 p {
   font-weight: 700;
-  font-size: 50px;
+  font-size: 40px;
   text-shadow: 2px 2px 2px black;
   color: #fff;
 
@@ -58,7 +58,7 @@ header p {
 
 .jumbotron h3 {
   color: #fff;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 section .row img {
